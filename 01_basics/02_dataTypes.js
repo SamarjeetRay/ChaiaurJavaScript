@@ -21,6 +21,6 @@ let state = null;
 
 // object
 
-console.log(typeof undefined);    // output will be undefined
+console.log(typeof undefined); // output will be undefined
 
-console.log(typeof null);        //output will be object
+console.log(typeof null); //output will be object
